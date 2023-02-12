@@ -1,3 +1,6 @@
+.body{
+    margin: 0px;
+}
 .navigation a{
  color: gray;
 }
@@ -12,6 +15,15 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.bg-add{
+    background-image: url("images/Background-image/bg-2.png");
+    background-repeat: no-repeat;
+}
+.bg-product{
+    background-image: url("images/Background-image/bg-1.png");
+    background-repeat: no-repeat;
+}
+
 .carousel-item{
     padding: 15px 20px;
 }
@@ -22,6 +34,17 @@
 .card-footer{
     border: none;
     color: whitesmoke;
+}
+.cat-pic{
+    border: 2px solid whitesmoke;
+}
+.cat-pic img{
+    height: 100px;
+    width: 100px;
+}
+.cat-pic-2{
+    height: 50%;
+    width: 50%;
 }
 /* .phone{
     text-align:justify;
