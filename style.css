@@ -1,0 +1,29 @@
+.navigation a{
+ color: gray;
+}
+.container{
+    padding-bottom: 100px;
+}
+.Buy-now-button{
+    background-color:black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-item{
+    padding: 15px 20px;
+}
+.card{
+    border-radius: 15px;
+    box-shadow: 10px 12px 12px gray;
+}
+.card-footer{
+    border: none;
+    color: whitesmoke;
+}
+/* .phone{
+    text-align:justify;
+    padding: 10px 15px;
+} */
